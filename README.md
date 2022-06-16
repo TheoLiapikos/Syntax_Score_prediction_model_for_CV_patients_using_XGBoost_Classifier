@@ -1,3 +1,3 @@
-# Syntax_Score_prediction_model_for_CV_patients_using_XGBoost_Classifier
+# Syntax Score prediction model for CV patients using XGBoost Classifier
 
 ## TO_DO: ADD MORE DETAILS ABOUT CODE
